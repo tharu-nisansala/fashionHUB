@@ -16,6 +16,7 @@ A modern and stylish online store interface built with **React + Vite**, showcas
 
 ## 🔧 Tech Stack
 - **Frontend**: React + Vite
+- **Backend**: Firebase
 - **Styling**: Tailwind CSS
 - **Routing**: React Router DOM
 - **Icons**: React Icons
