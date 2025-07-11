@@ -3,8 +3,7 @@
 
 ## 🛍️  `fashionHUB` — Online Clothing Store (React + Vite)
 
-```markdown
-# 👗 fashionHUB – E-commerce Clothing Store
+## 👗 fashionHUB – E-commerce Clothing Store
 
 A modern and stylish online store interface built with **React + Vite**, showcasing dynamic product listings, category pages, and product details.
 
@@ -21,22 +20,7 @@ A modern and stylish online store interface built with **React + Vite**, showcas
 - **Routing**: React Router DOM
 - **Icons**: React Icons
 
-## 📸 Screenshots
 
-
-![Uploading Screenshot (492).png…]()
-![Uploading Screenshot (493).png…]()
-![Uploading Screenshot (494).png…]()
-![Uploading Screenshot (495).png…]()
-![Uploading Screenshot (497).png…]()
-![Uploading Screenshot (498).png…]()
-![Uploading Screenshot (499).png…]()
-![Uploading Screenshot (500).png…]()
-![Uploading Screenshot (501).png…]()
-![Uploading Screenshot (502).png…]()
-![Uploading Screenshot (503).png…]()
-![Uploading Screenshot (504).png…]()
-![Uploading Screenshot (505).png…]()
 
 
 ## 🚀 Getting Started
