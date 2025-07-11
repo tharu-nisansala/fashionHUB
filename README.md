@@ -21,7 +21,9 @@ A modern and stylish online store interface built with **React + Vite**, showcas
 - **Routing**: React Router DOM
 - **Icons**: React Icons
 
+## URL:  demo video
 
+https://www.linkedin.com/posts/tharushi-nisansala-5818982a6_webdevelopment-reactjs-firebase-activity-7277978009272270848-1jlV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnQUjEBk-UHrKJ5c8WndsrwJe289Xc3UEU
 
 
 ## 🚀 Getting Started
